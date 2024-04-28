@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Macam-macam Buah</string>
+
+    <string name="fruit_name">Nama Buah</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_email">your.email@example.com</string>
+
+    <string-array name="data_name">
+        <item>Alpukat</item>
+        <item>Apel</item>
+        <item>Jeruk</item>
+        <item>Mangga</item>
+        <item>Melon</item>
+        <item>Nanas</item>
+        <item>Pir</item>
+        <item>Pisang</item>
+        <item>Semangka</item>
+        <item>Sirsak</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Alpukat adalah tumbuhan penghasil buah meja dengan nama sama. Tumbuhan ini berasal dari Meksiko dan Amerika Tengah dan kini banyak dibudidayakan di Amerika Selatan dan Amerika Tengah sebagai tanaman perkebunan monokultur dan sebagai tanaman pekarangan di daerah-daerah tropika lainnya di dunia.</item>
+        <item>Apel merupakan jenis buah-buahan, atau buah yang dihasilkan dari pohon apel. Buah apel biasanya berwarna merah kulitnya jika masak dan siap dimakan, tetapi bisa juga kulitnya berwarna hijau atau kuning. Kulit buahnya agak lembek dan daging buahnya keras. Buah apel memiliki beberapa biji di dalamnya.</item>
+        <item>Jeruk adalah buah dari spesies citrus dalam famili Rutaceae. Istilah "jeruk" umumnya mengacu pada Citrus × sinensis yang juga disebut jeruk manis dan Citrus aurantium yang disebut jeruk pahit. Jeruk manis bereproduksi secara aseksual (apomiksis melalui nucellar embryony), yaitu melalui sistem cangkok, okulasi, setek, dan varietas jeruk manis muncul melalui mutasi.</item>
+        <item>Mangga adalah nama sejenis buah, demikian pula nama pohonnya. Mangga termasuk ke dalam genus Mangifera, yang terdiri dari 35-40 anggota dari famili Anacardiaceae. Nama "mangga" berasal dari bahasa Tamil, mankay, yang berarti man "pohon mangga" + kay "buah". Kata ini dibawa ke Eropa oleh orang-orang Portugis dan diserap menjadi manga (bahasa Portugis), mango (bahasa Spanyol dan Inggris) dan lainnya.</item>
+        <item>Melon merupakan nama buah sekaligus tanaman yang menghasilkannya yang termasuk dalam suku labu-labuan atau Cucurbitaceae. Buahnya bisa dimakan segar sebagai buah meja atau diiris-iris sebagai campuran es buah. Bagian yang dimakan adalah daging buah (mesokarp). Teksturnya lunak, berwarna putih, kuning sampai merah, tergantung kultivarnya. Rasanya cenderung manis tawar.</item>
+        <item>Nanas adalah tumbuhan tropis dengan buah yang dapat dimakan dan tumbuhan yang paling penting secara ekonomi dalam famili Bromeliaceae. Nanas adalah tumbuhan asli Amerika Selatan, dan telah dibudidayakan disana selama berabad-abad. Pengenalan nanas ke Eropa pada abad ke-17 menjadikannya ikon budaya kemewahan yang signifikan. Sejak tahun 1820-an, nanas telah ditanam secara komersial di rumah kaca dan banyak perkebunan tropis.</item>
+        <item>Pir adalah sebutan untuk pohon dari genus Pyrus dan buah yang dihasilkan. Beberapa spesies pohon pir menghasilkan buah yang enak dimakan karena mengandung banyak air, masir dan manis. Pear adalah nama dalam bahasa Inggris.</item>
+        <item>Pisang nama umum yang diberikan pada tumbuhan terna berukuran besar dengan daun memanjang dan besar yang tumbuh langsung dari bagian tangkai. Batang pisang bersifat lunak karena terbentuk dari lapisan pelepah yang lunak dan panjang. Batang yang agak keras berada di bagian permukaan tanah. Pisang memiliki daun bertangkai yang berpencar dengan bagian batang yang meruncing. Ukuran daun pada tiap spesies pisang juga berbeda-beda. Tangkai pisang menghasilkan bunga dalam jumlah yang banyak. Bagian bunga pada pisang akan membentuk buah yang disebut sisir. Buah pisang berkelompok dalam satu bunga majemuk dengan ukuran yang makin ke bawah makin mengecil.</item>
+        <item>Semangka adalah tanaman merambat yang berasal dari daerah setengah gurun di Afrika bagian selatan. Tanaman ini masih sekerabat dengan labu-labuan, melon, dan ketimun. Semangka biasa dipanen buahnya untuk dimakan segar atau dibuat jus. Biji semangka yang dikeringkan dan disangrai juga dapat dimakan isinya (kotiledon) sebagai kuaci.</item>
+        <item>Sirsak adalah tumbuhan berbunga yang berasal dari Karibia, Amerika Tengah dan Amerika Selatan. Di berbagai daerah Indonesia buahnya dikenal sebagai nangka sebrang, nangka landa (Jawa), nangka walanda, sirsak (Sunda), nangka buris, nangkèlan, nangka ènglan (Madura), srikaya jawa (Bali), boh lôna (Aceh), durio ulondro (Nias), durian betawi (Minangkabau), durian belanda (Malaysia), nangko belando (Palembang), serta jambu landa (di Lampung). Penyebutan "belanda" dan variasinya, "jawa", "betawi", serta "sebrang" menunjukkan bahwa sirsak adalah buah yang didatangkan dari tempat lain. Pada kenyataannya, sirsak didatangkan oleh pemerintah kolonial Hindia Belanda ke Nusantara pada abad ke-19, meskipun bukan berasal dari Eropa.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/alpukat</item>
+        <item>@drawable/apel</item>
+        <item>@drawable/jeruk</item>
+        <item>@drawable/mangga</item>
+        <item>@drawable/melon</item>
+        <item>@drawable/nanas</item>
+        <item>@drawable/pir</item>
+        <item>@drawable/pisang</item>
+        <item>@drawable/semangka</item>
+        <item>@drawable/sirsak</item>
+    </integer-array>
+</resources>
